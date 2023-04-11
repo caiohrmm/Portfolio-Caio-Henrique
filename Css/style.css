@@ -1,0 +1,11 @@
+#navegacao {
+    background: #02203E;
+    height: 90px;
+}
+
+#barradenavegacao a {
+    color: #fff;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: 'Open Sans';
+}
